@@ -52,4 +52,3 @@ var circleAttributes = circles
                         .attr("cy", function (d) { return d.y_axis; })
                         .attr("r", function (d) { return d.radius; })
                         .attr("fill", function (d) { return d.color; })
-}}}
